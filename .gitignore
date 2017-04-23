@@ -1,0 +1,9 @@
+.idea
+lib/
+target/
+*.iml
+build
+.settings
+.svn
+.classpath*
+.project*
